@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Himanshu saxena
+- 👀 I’m interested in Data Analytics, MIS and Workforce Management.
+- 🌱 I’m currently learning SQL and PowerBI
+- 💞️ I’m looking to collaborate on Data Visualization and Management.
+- 📫 Reach me at http://linkedin.com/in/himanshusaxenahs
